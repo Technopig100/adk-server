@@ -1,0 +1,9 @@
+RELEASE=23.01
+CODENAME=server
+EDITION="Server"
+DESCRIPTION="ADK-Linux 23.01 Server"
+DESKTOP=None
+TOOLKIT=None
+RELEASE_NOTES_URL=https://github.com/Technopig100/whatsnew.git
+USER_GUIDE_URL=https://wiki.archlinux.org/title/Main_page
+GRUB_TITLE=ADK-Linux 23.01 Server
